@@ -10,6 +10,7 @@ not entertained in the past. By customizing we can meet specific requirements of
 - [Overview](#Overview)
 - [Market Dynamics](#Market-Dynamics)
 - [Market Challenges](#Market-challenges)
+- [Libraries Used](#Libraries-Used)
 - [Data Preprocessing](#Data-Preprocessing)
 - [Prerequisites](#prerequisites)
 - [Dataset Link](#Dataset-Link)
@@ -19,7 +20,7 @@ not entertained in the past. By customizing we can meet specific requirements of
 - [License](#license)
 
   
-## :warning: Frameworks and Libraries
+## Libraries Used
 
 - **[SKLearn](https://scikit-learn.org/stable/):** Efficient tools for predictive data analysis
 - **[Seaborn](https://seaborn.pydata.org/):**
