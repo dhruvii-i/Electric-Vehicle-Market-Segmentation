@@ -33,7 +33,7 @@ not entertained in the past. By customizing we can meet specific requirements of
 - **[Matplotlib](https://matplotlib.org/) :** Matplotlib is a library for creating static visualizations in Python.
 - **[Numpy](https://www.geeksforgeeks.org/introduction-to-numpy/):**
   Numpy is a general-purpose array-processing package.It provides a high-performance multidimensional array object and tools for working with these arrays.
-- **[Pandas]((https://www.geeksforgeeks.org/introduction-to-pandas-in-python/)):**
+- **[Pandas](https://www.geeksforgeeks.org/introduction-to-pandas-in-python/):**
   Pandas is used for working with datasets usinf functions such as cleaning, exploring and manipulation.
 
 
