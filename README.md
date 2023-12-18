@@ -16,9 +16,12 @@ not entertained in the past. By customizing we can meet specific requirements of
 - [Dataset Link](#Dataset-Link)
 - [Results](#Results)
 - [Future Goals](#Future-Goals)
-- [Owner](#owner)
-- [License](#license)
+- [About Me](#About-Me)
+- 
 
+## Overview
+## Market Dynamics
+## Market Challenges
   
 ## Libraries Used
 
@@ -32,3 +35,11 @@ not entertained in the past. By customizing we can meet specific requirements of
   Numpy is a general-purpose array-processing package.It provides a high-performance multidimensional array object and tools for working with these arrays.
 - **[Pandas]((https://www.geeksforgeeks.org/introduction-to-pandas-in-python/)):**
   Pandas is used for working with datasets usinf functions such as cleaning, exploring and manipulation.
+
+
+## Data Preprocessing
+## prerequisites
+## Dataset Link
+## Results
+## Future Goals
+## About Me
