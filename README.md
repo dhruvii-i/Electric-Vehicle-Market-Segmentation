@@ -17,3 +17,17 @@ not entertained in the past. By customizing we can meet specific requirements of
 - [Future Goals](#Future-Goals)
 - [Owner](#owner)
 - [License](#license)
+
+  
+## :warning: Frameworks and Libraries
+
+- **[SKLearn](https://scikit-learn.org/stable/):** Efficient tools for predictive data analysis
+- **[Seaborn](https://seaborn.pydata.org/):**
+  Seaborn is a Python data visualization library based on matplotlib. It is used for making statistical visualizations. For Example, graphs that show relationships between two variables in a dataset.  
+- **[Plotly](https://plotly.com/python/getting-started/):**
+  The plotly Python library is an interactive, open-source plotting library that creates line charts, scatter plots, etc. and can be embedded on websites that can be zoomed in, rotated, and explore in many more ways.
+- **[Matplotlib](https://matplotlib.org/) :** Matplotlib is a library for creating static visualizations in Python.
+- **[Numpy](https://www.geeksforgeeks.org/introduction-to-numpy/):**
+  Numpy is a general-purpose array-processing package.It provides a high-performance multidimensional array object and tools for working with these arrays.
+- **[Pandas]((https://www.geeksforgeeks.org/introduction-to-pandas-in-python/)):**
+  Pandas is used for working with datasets usinf functions such as cleaning, exploring and manipulation.
