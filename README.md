@@ -20,7 +20,8 @@ not entertained in the past. By customizing we can meet specific requirements of
 - 
 
 ## Overview
-<div><img align= "center" src="Images/India-Electric-Car-Market.jpg" width="400" height="350"/>
+<div align="center">
+  <img  src="Images/India-Electric-Car-Market.jpg" width="400" height="350"/>
 </div>
 
 ## Market Dynamics
