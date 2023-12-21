@@ -33,7 +33,10 @@ The burden of rising pollution, global warming, Russia-Ukraine war escalating pr
 <h5> 
 Governments and cities have introduced regulations to support the mobility shift. According to a report The European Union presented its "Fit for 55" program, which seeks to align energy, transport and various other policies to reduce greenhouse gas emissions by at lelast 55% by 2030, and the Biden administration introduced a 50% electric vehicle target for 2030. Beyond this alot of governments are also offering EV subsidies.
 Cities are trying to reduce use of private vehicles and congestion by providing greater support alternative mobility modes such as electic vehicles.
-India is one of the world's largest markets for both two and three- wheeler vehicles, ranking among the global top 5 for cars and commercial vehicles. According to JMK research, 455,733 EV units were sold in FY2022. India's Ministry of Road Transport and Highways also claimed that 1,334,385 EV's in India were on the road as of July 2022. These numbers are sure to increase, with governments and private sectors actively contributing to greater electricification on Indian Roads.
+India is one of the world's largest markets for both two and three- wheeler vehicles, ranking among the global top 5 for cars and commercial vehicles. According to <a href="https://jmkresearch.com/wp-content/uploads/2022/07/ARC-EV-FY22.pdf">JMK research</a>
+, 455,733 EV units were sold in FY2022. </h5>
+<img src=Images/EV-sales-trend-in-india-JMK.png width=400 height=350 ></img>
+ <h5> India's Ministry of Road Transport and Highways also claimed that 1,334,385 EV's in India were on the road as of July 2022. These numbers are sure to increase, with governments and private sectors actively contributing to greater electricification on Indian Roads.
 The Indian Electric Vehicles market size was valued at USD 8674.45 million in 2022 and is projected to reach a value of USD 23514.54 million by 2031, registering a CAGR of 23.47% during the forecast period 2023-2031.
 </h5>
 ## Market Challenges
