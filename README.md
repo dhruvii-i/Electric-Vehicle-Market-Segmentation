@@ -23,16 +23,22 @@ not entertained in the past. By customizing we can meet specific requirements of
 <div align="center">
 <img src=Images/India-Electric-Car-Market.jpg width=400 height=350 ></img>
 <h5> The Global Automotive industry all over the world is undergoing a major change at present in switching to alternative or less consuming energy options due to limited resources. India, too, is investing in this huge mobility shift.
-The burden of rising pollution, global warming, Russia-Ukraine war escalating prices and various international commitments are key factors stimulating India and its policies to transition to electric mobility and attend rising desire among consumers.</h5>
-<h5>Some of the factors fueling the rapid growth of electrification of EV Market:</h5>
+The burden of rising pollution, global warming, Russia-Ukraine war escalating prices and various international commitments are key factors stimulating India and its policies to transition to electric mobility and attend rising desire among consumers.</h5></div>
+<h4>Some of the factors fueling the rapid growth of electrification of EV Market:</h4>
 <ul>
   <li><b>Government Initiatives:</b> The government has introduced various initiatives like subsidies, tax benefits, and various policies such as FAME-II policy to boost EV Market.</li>
   <li><b>Rising Prices of Fuels:</b> The increasing fuel prices due to limited resources are boosting importance of EVs making them a more economical option at the moment.</li>
 <li><b>Environmental Concerns:</b> Air Pollution being a major concern, shift toward economical vehicles is very necessary.</li>
- <li><b>Advanicing Technology:</b> Advancements in battery technology and infrastructes of charging stations makes EVs more practical and efficient to be used.</li>
+ <li><b>Advancing Technology:</b> Advancements in battery technology and infrastructes of charging stations makes EVs more practical and efficient to be used.</li>
 </ul>
+<h4> Current Market Landscape:</h4>
+<ul>
+  <li>The Indian EV market is still in its developing stage, with it's growth at a CAGR of over 40%, making it one of the fastest-growing EV markets in the world.</li>
+<li>Two-wheelers are currently dominating the market, accounting for over 80% of EV sales. There is also a significant growth in three-wheelers.</li>
 
-</h5>
+<li>Major players in the market include Tata Motors, Mahindra & Mahindra, Ather Energy, Ola Electric, Hero Electric, and Bajaj Auto.
+The infrastructure of charging stations is still developing, but there are heavy investments in setting the stations up across the country by both private and public sector.</li>
+<h4> Despite various challenges, the future scope of Electric Vehicles in India is very promising. With support of both public and private sector and various technological advancements, India is bound to be a top player in the EV Market.</h4>
 </div>
 
 
