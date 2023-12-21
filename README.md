@@ -23,7 +23,14 @@ not entertained in the past. By customizing we can meet specific requirements of
 <div align="center">
 <img src=Images/India-Electric-Car-Market.jpg width=400 height=350 ></img>
 <h5> The Global Automotive industry all over the world is undergoing a major change at present in switching to alternative or less consuming energy options due to limited resources. India, too, is investing in this huge mobility shift.
-The burden of rising pollution, global warming, Russia-Ukraine war escalating prices and various international commitments are key factors stimulating India and its policies to transition to electric mobility and attend rising desire among consumers.
+The burden of rising pollution, global warming, Russia-Ukraine war escalating prices and various international commitments are key factors stimulating India and its policies to transition to electric mobility and attend rising desire among consumers.</h5>
+<h5>Some of the factors fueling the rapid growth of electrification of EV Market:</h5>
+<ul>
+  <li><b> Government Innitiatives:</b> The government has introduced various initiatives like subsidies, tax benefits, and various policies such as FAME-II policy to boost EV Market.</li>
+  <li><b>Rising Prices of Fuels:</b> The increasing fuel prices due to limited resources are boosting importance of EVs making them a more economical option at the moment.</li>
+  <li><b> Environmental Concerns:</b> Air Pollution being a major concern, shift toward economical vehicles is very necessary.</li>
+ <li><b>Advanicing Technology:</b> Advancements in battery technology and infrastructes of charging stations makes EVs more practical and efficient to be used.</li>
+</ul>
 
 </h5>
 </div>
