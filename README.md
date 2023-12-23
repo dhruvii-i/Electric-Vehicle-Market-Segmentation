@@ -13,7 +13,7 @@ not entertained in the past. By customizing we can meet specific requirements of
 - [Libraries Used](#Libraries-Used)
 - [Data Preprocessing](#Data-Preprocessing)
 - [Prerequisites](#prerequisites)
-- [Dataset Link](#Dataset-Link)
+- [Dataset Resources](#Dataset-Resources)
 - [Results](#Results)
 - [Future Goals](#Future-Goals)
 - [About Me](#About-Me)
@@ -35,6 +35,13 @@ The burden of rising pollution, global warming, Russia-Ukraine war escalating pr
 <ul>
   <li>The Indian EV market is still in its developing stage, with it's growth at a CAGR of over 40%, making it one of the fastest-growing EV markets in the world.</li>
 <li>Two-wheelers are currently dominating the market, accounting for over 80% of EV sales. There is also a significant growth in three-wheelers.</li>
+ According to <a href="https://www.thehindu.com/sci-tech/technology/indias-electric-vehicle-market-grew-223-in-2022/article66516424.ece">The Hindu News Report:</a>
+<ul>
+  <li> India Electric Vehicle Market grew 223% in 2022, adding around 48,000 EVs, according to market analyst firm Canalys.</li>
+<li> Tata leads in EVs with 86% of the market share from just two models: the Nexon EV and Tigor EV. Then Followed by MG’s ZS EV with 9% of the market share, and Hyundai’s Kona with 1.6% of the market share.</li>
+  <li>Luxury brands like Audi, BMW and Mercedes-Benz sell globally popular EV models in India, but in small volumes. Mercedes-Benz and BMW posted record sales but represented less than 1% of the total market share.</li>
+</ul>
+
 
 <li>Major players in the market include Tata Motors, Mahindra & Mahindra, Ather Energy, Ola Electric, Hero Electric, and Bajaj Auto.
 The infrastructure of charging stations is still developing, but there are heavy investments in setting the stations up across the country by both private and public sector.</li>
@@ -70,7 +77,13 @@ The Indian Electric Vehicles market size was valued at USD 8674.45 million in 20
 
 ## Data Preprocessing
 ## prerequisites
-## Dataset Link
+## Dataset Resources
+<h5>The Dataset Sources collected and used for Analysis are as follows:
+
+  1. <a href ="https://www.kaggle.com/datasets/saketpradhan/electric-vehicle-charging-stations-in-india"> Ev Charging Stations Dataset </a>
+  2. Electric Vehicle Dataset consisting of Customer Segmentation on the basis of Behavioural Features.
+</h5>
+
 ## Results
 ## Future Goals
 ## About Me
