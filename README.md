@@ -9,15 +9,8 @@ not entertained in the past. By customizing we can meet specific requirements of
 
 - [Overview](#Overview)
 - [Market Overview](#Market-Overview)
-- [Market Challenges](#Market-challenges)
 - [Libraries Used](#Libraries-Used)
-- [Data Preprocessing](#Data-Preprocessing)
-- [Prerequisites](#prerequisites)
-- [Dataset Resources](#Dataset-Resources)
-- [Results](#Results)
-- [Future Goals](#Future-Goals)
-- [About Me](#About-Me)
-- 
+
 
 ## Overview
 <div align="center">
@@ -65,8 +58,6 @@ India is one of the world's largest markets for both two and three- wheeled vehi
 The Indian Electric Vehicles market size was valued at USD 8674.45 million in 2022 and is projected to reach a value of USD 23514.54 million by 2031, registering a CAGR of 23.47% during the forecast period 2023-2031.
 </h5>
 
-## Market Challenges
-  
 ## Libraries Used
 
 - **[SKLearn](https://scikit-learn.org/stable/):** Efficient tools for predictive data analysis
@@ -80,16 +71,3 @@ The Indian Electric Vehicles market size was valued at USD 8674.45 million in 20
 - **[Pandas](https://www.geeksforgeeks.org/introduction-to-pandas-in-python/):**
   Pandas is used for working with datasets usinf functions such as cleaning, exploring and manipulation.
 
-
-## Data Preprocessing
-## prerequisites
-## Dataset Resources
-<h5>The Dataset Sources collected and used for Analysis are as follows:
-
-  1. <a href ="https://www.kaggle.com/datasets/saketpradhan/electric-vehicle-charging-stations-in-india"> Ev Charging Stations Dataset </a>
-  2. Electric Vehicle Dataset consisting of Customer Segmentation on the basis of Behavioural Features.
-</h5>
-
-## Results
-## Future Goals
-## About Me
